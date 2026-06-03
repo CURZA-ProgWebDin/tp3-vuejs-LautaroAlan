@@ -263,3 +263,19 @@ src/
 3. Incluí un `README.md` con los pasos para instalar y correr el proyecto
 
 > **Tip:** abrí las DevTools antes de probar el panel de pestañas y dejá la consola visible. La mayoría de lo que se evalúa en la Parte 3 se ve ahí, no en la pantalla.
+
+
+
+## Requisitos Previos
+* **Node.js**
+* **npm** instalado junto con Node.js
+
+## Instalación
+
+1. Clona el repositorio desde GitHub Classroom.
+2. Navega hasta la carpeta del proyecto:
+   ```bash
+   cd tp3-vue-dinamico
+   npm install
+   npm run dev
+   Una vez iniciado, abre tu navegador en la dirección indicada en la terminal http://localhost:5173).
